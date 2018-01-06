@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to the Berkshires</title>
+    <link>http://jeneisen.github.io/jandd/</link>
+    <description>Recent content on Welcome to the Berkshires</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://jeneisen.github.io/jandd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://jeneisen.github.io/jandd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jeneisen.github.io/jandd/</guid>
+      <description>Welcome to the Berkshires     Toggle navigation     Jen &amp;amp; Daryl      Schedule   Accomodations   Activities   Restaurants   Registry       Lenox, MA We&amp;rsquo;re getting married!    Schedule    Welcome Dessert Friday September 7th, 8:00 - 10:00PM TBA
+ Ceremony Saturday September 8th, 4:30PM Tanglewood Lenox, MA</description>
+    </item>
+    
+  </channel>
+</rss>
