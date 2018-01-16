@@ -46,14 +46,13 @@ a.active {
 }
 
 a {
-    color: #003300;
 }
 
 a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #003300;
+    text-decoration: none;
 }
 
 h1,
@@ -229,17 +228,17 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #003300;
-    background-color: #003300;
+    border-color: #fff;
+    background-color: #fff;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #fff;
+    background-color: #ffdae0;
 }
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #ffdae0;
+    background-color: #fff;
 }
 
 .navbar-default .nav li a {
@@ -746,22 +745,22 @@ ul.social-buttons li a:active {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #003300;
+    background: #ACCEF7;
 }
 
 ::selection {
     text-shadow: none;
-    background: #003300;
+    background: #ACCEF7;
 }
 
 img::selection {
-    background: 0 0;
+    background: #ACCEF7;
 }
 
 img::-moz-selection {
-    background: 0 0;
+    background: #ACCEF7;
 }
 
 body {
-    webkit-tap-highlight-color: #003300;
+    webkit-tap-highlight-color: #ACCEF7;
 }-
