@@ -207,11 +207,16 @@ fieldset[disabled] .btn-xl.active {
     margin: -15px;
 }
 
+
 @media(min-width:768px) {
     .navbar-brand>img {
         height: 50px;
         max-width: 300px;
         margin: -15px;
+    }
+
+    header .intro-text {
+        margin-bottom: 160px;
     }
 }
 
@@ -220,6 +225,10 @@ fieldset[disabled] .btn-xl.active {
         height: 50px;
         max-width: 400px;
         margin: -15px;
+    }
+
+    header .intro-text {
+        margin-bottom: 160px;
     }
 }
 
